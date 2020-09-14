@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Connect with me:
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- <a href="https://www.linkedin.com/in/chrimaho/" class="fa fa-linkedin"></a> -->
+[<a href="https://www.linkedin.com/in/chrimaho/" class="fa fa-linkedin"></a>][linkedin]
+[<img align="left" alt="chrimaho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **chrimaho/chrimaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
