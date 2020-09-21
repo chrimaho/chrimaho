@@ -46,6 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Addressing The John Smith Problem](https://towardsdatascience.com/addressingthejohnsmithproblem-1533da4f7db8?source=rss-56d03114dd5a------2)
+- [Reinforcement Learning in the Warehousing Industry](https://medium.com/ai-in-plain-english/reinforcement-learning-in-the-warehousing-industry-a5e7f1c28422?source=rss-56d03114dd5a------2)
+- [Plotting NPS Data](https://medium.com/analytics-vidhya/plottingnps-2958b642a51f?source=rss-56d03114dd5a------2)
+- [The Future of Australian Energy Prices](https://medium.com/trends-in-data-science/ausenergyprices-737b9cbe5540?source=rss-56d03114dd5a------2)
+- [The Automation of GitHub Processes in RStudio](https://medium.com/@chrimaho/githubautomation-ce1b7616fa8c?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
