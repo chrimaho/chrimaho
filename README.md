@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-
-
-</br>
+<!-- Shield details: https://shields.io/#your-badge -->
+<!-- [<img src="https://img.shields.io/badge/ChrisMahoney.com.au-Developing-orange?logo=about.me&logoColor=white" />](ChrisMahoney.com.au)
+[<img src="https://img.shields.io/badge/LinkedIn-Developing-orange?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chrimaho/)
+[<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />](https://www.linkedin.com/in/chrimaho/) -->
 
 ---
 
@@ -42,8 +43,9 @@
 
 ---
 
-
 ### 📕 Latest Blog Posts
+
+<!-- Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
 - [Addressing The John Smith Problem](https://towardsdatascience.com/addressingthejohnsmithproblem-1533da4f7db8?source=rss-56d03114dd5a------2)
@@ -53,6 +55,35 @@
 - [The Automation of GitHub Processes in RStudio](https://medium.com/@chrimaho/githubautomation-ce1b7616fa8c?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://medium.com/@chrimaho)
+
+---
+
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+
+<div class="row">
+
+<div class="column" style="width:100px">
+
+[![GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=chrimaho&show_icons=true&hide_border=false)][github]
+
+</div>
+
+<div class="column" style="width:100px">
+
+[![GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=chrimaho&show_icons=true&hide_border=false)][github]
+
+</div>
+
+</div>
+
+---
+
+<!-- GitHub Activity: https://github.com/marketplace/actions/github-activity-readme -->
+
+This
+
+---
 
 <!--
 **chrimaho/chrimaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,8 +100,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[website]: https://chrismahoney.com.au/"
-[linkedin]: https://www.linkedin.com/in/chrimaho/"
-[github]: https://github.com/chrimaho"
-[medium]: https://medium.com/@chrimaho"
+
+[website]: https://chrismahoney.com.au/
+[linkedin]: https://www.linkedin.com/in/chrimaho/
+[github]: https://github.com/chrimaho
+[medium]: https://medium.com/@chrimaho
 [stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho
