@@ -55,27 +55,27 @@
 - [The Automation of GitHub Processes in RStudio](https://medium.com/@chrimaho/githubautomation-ce1b7616fa8c?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@chrimaho)
+➡️ [more blog posts...][medium]
 
 ---
 
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Set up as a one-row table, to get some pretty formatting of columns & borders -->
 
-<div class="row">
+<table align="center">
+<tr>
+<td align="center">
 
-<div class="column" style="width:100px">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrimaho&show_icons=true&hide_border=true)][github]
 
-[![GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=chrimaho&show_icons=true&hide_border=false)][github]
+</td>
+<td align="center">
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrimaho&langs_count=8&hide_border=true&hide=html)][github]
 
-<div class="column" style="width:100px">
-
-[![GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=chrimaho&show_icons=true&hide_border=false)][github]
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
