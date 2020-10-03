@@ -134,10 +134,10 @@ Here are some ideas to get you started:
 -->
 
 [website]: https://chrismahoney.com.au/ "ChrisMahoney.com.au"
-[linkedin]: https://www.linkedin.com/in/chrimaho/ "LinkedIn: chrimaho"
-[github]: https://github.com/chrimaho "GitHub: chrimaho"
-[medium]: https://medium.com/@chrimaho "Medium: chrimaho"
-[stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho "StackOverflow: chrimaho"
+[linkedin]: https://www.linkedin.com/in/chrimaho/ "LinkedIn"
+[github]: https://github.com/chrimaho "GitHub"
+[medium]: https://medium.com/@chrimaho "Medium"
+[stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho "StackOverflow"
 [dbschenker]: https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker"
 [uts]: https://mdsi.uts.edu.au/ "UTS MDSI"
 [python]: https://www.python.org/ "Python"
