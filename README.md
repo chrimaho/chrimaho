@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!-- Shield details: https://shields.io/#your-badge -->
+<!-- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- Another good Badges Repo: https://github.com/Ileriayo/markdown-badges -->
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=Website&logo=home-assistant&style=social)][website]
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=linkedin&style=social)][linkedin]
 [![Connect on LinkedIn](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
@@ -49,6 +51,8 @@
 
 ---
 
+### GitHub Stats
+
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Set up as a one-row table, to get some pretty formatting of columns & borders -->
 
@@ -56,16 +60,23 @@
 <tr>
 <td align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrimaho&show_icons=true&hide_border=true)][github]
+[![GitHub Stats](https://chrimaho-github-readme-stats.vercel.app/api?username=chrimaho&show_icons=true&hide_border=true)][github]
+
 
 </td>
 <td align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrimaho&langs_count=8&hide_border=true&hide=html)][github]
+[![Top Langs](https://chrimaho-github-readme-stats.vercel.app/api/top-langs/?username=chrimaho&langs_count=8&hide_border=true&hide=html)][github]
 
 </td>
 </tr>
 </table>
+
+### GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ---
 
@@ -91,7 +102,7 @@ Here are some ideas to get you started:
 
 -->
 
-[website]: https://chrismahoney.com.au/
+[website]: https://chrismahoney.com.au/?target=_blank
 [linkedin]: https://www.linkedin.com/in/chrimaho/
 [github]: https://github.com/chrimaho
 [medium]: https://medium.com/@chrimaho
