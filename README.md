@@ -52,7 +52,7 @@
 
 ### Formal Education:
 
-[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />][benchmark_cert]
+[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMRm99KHU5nkIAMTOTUOEZ14VYuMFXM8y_Hw&usqp=CAU" />][benchmark_cert]
 [<img align="left" alt="Diploma of Management" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />][benchmark_dipm]
 [<img align="left" alt="Bachelor of Business & Commerce (Advanced Business Leadership)" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2017/11/University-of-Western-Sydney-final.png" />][uws_bbcabl]
 [<img align="left" alt="Bachelor of Applied Leadership and Critical Thinking" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2020/06/Western-Sydney-University_Stacked-Logo-200x200-1.png" />][wsu_balct]
