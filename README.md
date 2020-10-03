@@ -43,10 +43,10 @@
 
 ### Corporate Experience:
 
-[<img align="left" alt="Toll" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/03/toll-group-vector-logo.png" />][toll]
-[<img align="left" alt="TNT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Express_Logo.svg/1280px-TNT_Express_Logo.svg.png" />][tnt]
+[<img align="left" alt="Toll" width="26px" src="https://posttrack.com/cdn/images/carriers/icons/0260-toll-group.png" />][toll]
+[<img align="left" alt="TNT" width="26px" src="https://seeklogo.net/wp-content/uploads/2016/11/tnt-logo-vector-preview.png" />][tnt]
 [<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />][rotary]
-[<img align="left" alt="Rotary" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />][schenker]
+[<img align="left" alt="Rotary" width="26px" src="https://www.spirable.com/wp-content/uploads/2019/06/Untitled-design-2.png" />][schenker]
 
 </br>
 
