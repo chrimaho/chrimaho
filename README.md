@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Hi there, I'm Chris 👋
+
 
 <!-- Shield details: https://shields.io/#your-badge -->
 <!-- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -8,6 +9,16 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
 [![Connect on LinkedIn](https://img.shields.io/badge/--github?label=GitHub&logo=github&style=social)][github]
 [![Connect on LinkedIn](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)][medium]
+
+### I'm a Data Scientist, Analyst, and Data Guru!
+
+- [<img align="left" alt="DB Schenker" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />](https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker") I currently work for [DB Schenker](https://www.dbschenker.com/au-en/about/innovation-digitalization)
+- [<img align="left" alt="DB Schenker" width="26px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />](https://mdsi.uts.edu.au/ "UTS") I am currently studying at the [University of Technology Sydney](https://mdsi.uts.edu.au/)
+- 👨‍💼 I currently work for [DB Schenker](https://www.dbschenker.com/au-en/about/innovation-digitalization)
+- 🎓 I am currently studying at [UTS](https://mdsi.uts.edu.au/)
+- 💻 I'm keen to contribute to more Open Source projects
+- 👯 I'd love to collaborate more with other like-minded individuals
+- 🛩️ Fun fact: I used to fly Glider aircraft as a hobby
 
 ---
 
@@ -31,6 +42,25 @@
 [<img align="left" alt="Oracle SQL Developer" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-28.png" />](http://oracle.com/technetwork/developer-tools/sql-developer/ "Oracle SQL Developer")
 
 </br>
+
+### Corporate Experience:
+
+[<img align="left" alt="Toll" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/03/toll-group-vector-logo.png" />](https://www.tollgroup.com/ "Toll: 8 years")
+[<img align="left" alt="TNT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Express_Logo.svg/1280px-TNT_Express_Logo.svg.png" />](https://www.tnt.com/ "TNT: 1 year")
+[<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />](http://www.rotaryaustralia.org.au/ "Rotary: 7 years")
+[<img align="left" alt="Rotary" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />](https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker: 3 years")
+
+</br>
+
+### Formal Education:
+
+[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />](https://www.benchmark.edu.au/ "Cert IV Training and Assessment")
+[<img align="left" alt="Diploma of Management" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />](https://www.benchmark.edu.au/ "Diploma of Management")
+[<img align="left" alt="Bachelor of Business & Commerce (Advanced Business Leadership)" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2017/11/University-of-Western-Sydney-final.png" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-business-advanced-business-leadership.html "Bachelor of Business & Commerce (Advanced Business Leadership)")
+[<img align="left" alt="Bachelor of Applied Leadership and Critical Thinking" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2020/06/Western-Sydney-University_Stacked-Logo-200x200-1.png" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-applied-leadership.html "Bachelor of Applied Leadership and Critical Thinking")
+[<img align="left" alt="Masters of Data Science and Innovation" height="40px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-applied-leadership.html "Masters of Data Science and Innovation")
+
+</br>
 </br>
 
 ---
@@ -51,10 +81,13 @@
 
 ---
 
-### GitHub Stats
+### GitHub Details
+
+<details>
+<summary>Stats</summary>
 
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Set up as a one-row table, to get some pretty formatting of columns & borders -->
+<!-- Note: Set up as a one-row table, to get some pretty formatting of columns & borders -->
 
 <table align="center">
 <tr>
@@ -72,17 +105,17 @@
 </tr>
 </table>
 
-### GitHub Activity
+</details>
+
+<details>
+<summary>Activity</summary>
+
+<!-- GitHub Activity: https://github.com/marketplace/actions/github-activity-readme -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
----
-
-<!-- GitHub Activity: https://github.com/marketplace/actions/github-activity-readme -->
-
-This
+</details>
 
 ---
 
