@@ -1,4 +1,4 @@
-#### Hi there, I'm Chris 👋
+### Hi there, I'm Chris 👋
 
 
 <!-- Shield details: https://shields.io/#your-badge -->
