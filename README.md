@@ -12,10 +12,8 @@
 
 ### I'm a Data Scientist, Analyst, and Data Guru!
 
-- [<img align="left" alt="DB Schenker" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />](https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker") I currently work for [DB Schenker](https://www.dbschenker.com/au-en/about/innovation-digitalization)
-- [<img align="left" alt="DB Schenker" width="26px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />](https://mdsi.uts.edu.au/ "UTS") I am currently studying at the [University of Technology Sydney](https://mdsi.uts.edu.au/)
-- 👨‍💼 I currently work for [DB Schenker](https://www.dbschenker.com/au-en/about/innovation-digitalization)
-- 🎓 I am currently studying at [UTS](https://mdsi.uts.edu.au/)
+- 👨‍💼 I currently work for [DB Schenker][dbschenker]
+- 🎓 I am currently studying at [UTS][uts]
 - 💻 I'm keen to contribute to more Open Source projects
 - 👯 I'd love to collaborate more with other like-minded individuals
 - 🛩️ Fun fact: I used to fly Glider aircraft as a hobby
@@ -24,41 +22,41 @@
 
 ### My Languages:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/ "Python")
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org/ "R")
-[<img align="left" alt="t-SQL" width="26px" src="https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629" />](https://www.microsoft.com/en-au/sql-server/ "PL-SQL")
-[<img align="left" alt="Oracle" height="26px" src="https://www.tenfold.com/wp-content/uploads/2017/05/icon-oracle-sales-cloud.png" />](https://oracle.com/database "Oracle Database")
-[<img align="left" alt="PowerQuery" width="26px" src="https://computrain.com//wp-content/uploads/2018/02/pq-icon-150x150.png" />](https://docs.microsoft.com/en-us/power-query/ "Power Query")
-[<img align="left" alt="VB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vb.svg" />](https://docs.microsoft.com/en-us/dotnet/visual-basic/ "Visual Basic")
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
+[<img align="left" alt="t-SQL" width="26px" src="https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629" />][tsql]
+[<img align="left" alt="Oracle" height="26px" src="https://www.tenfold.com/wp-content/uploads/2017/05/icon-oracle-sales-cloud.png" />][plsql]
+[<img align="left" alt="PowerQuery" width="26px" src="https://computrain.com//wp-content/uploads/2018/02/pq-icon-150x150.png" />][powerquery]
+[<img align="left" alt="VB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vb.svg" />][vb]
 
 </br>
 
 ### My IDE's:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/ "Visual Studio Code")
-[<img align="left" alt="RStudio" width="26px" src="https://enholm.net/wp-content/uploads/2015/08/RStudio-Ball.png" />](https://rstudio.com/ "RStudio")
-[<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png" />](https://jupyterlab.readthedocs.io/en/latest/ "Jupyter Lab")
-[<img align="left" alt="SQL Server Management Studio" width="26px" src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" />](https://docs.microsoft.com/en-us/sql/ssms/ "SQL Server Management Studio")
-[<img align="left" alt="Oracle SQL Developer" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-28.png" />](http://oracle.com/technetwork/developer-tools/sql-developer/ "Oracle SQL Developer")
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
+[<img align="left" alt="RStudio" width="26px" src="https://enholm.net/wp-content/uploads/2015/08/RStudio-Ball.png" />][rstudio]
+[<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png" />][jupyterlab]
+[<img align="left" alt="SQL Server Management Studio" width="26px" src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" />][ssms]
+[<img align="left" alt="Oracle SQL Developer" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-28.png" />][sqldeveloper]
 
 </br>
 
 ### Corporate Experience:
 
-[<img align="left" alt="Toll" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/03/toll-group-vector-logo.png" />](https://www.tollgroup.com/ "Toll: 8 years")
-[<img align="left" alt="TNT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Express_Logo.svg/1280px-TNT_Express_Logo.svg.png" />](https://www.tnt.com/ "TNT: 1 year")
-[<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />](http://www.rotaryaustralia.org.au/ "Rotary: 7 years")
-[<img align="left" alt="Rotary" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />](https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker: 3 years")
+[<img align="left" alt="Toll" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/03/toll-group-vector-logo.png" />][toll]
+[<img align="left" alt="TNT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TNT_Express_Logo.svg/1280px-TNT_Express_Logo.svg.png" />][tnt]
+[<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />][rotary]
+[<img align="left" alt="Rotary" width="26px" src="https://basefarm.se/wp-content/uploads/2019/05/deutsche-bahn-logo-png-8.png" />][schenker]
 
 </br>
 
 ### Formal Education:
 
-[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />](https://www.benchmark.edu.au/ "Cert IV Training and Assessment")
-[<img align="left" alt="Diploma of Management" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />](https://www.benchmark.edu.au/ "Diploma of Management")
-[<img align="left" alt="Bachelor of Business & Commerce (Advanced Business Leadership)" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2017/11/University-of-Western-Sydney-final.png" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-business-advanced-business-leadership.html "Bachelor of Business & Commerce (Advanced Business Leadership)")
-[<img align="left" alt="Bachelor of Applied Leadership and Critical Thinking" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2020/06/Western-Sydney-University_Stacked-Logo-200x200-1.png" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-applied-leadership.html "Bachelor of Applied Leadership and Critical Thinking")
-[<img align="left" alt="Masters of Data Science and Innovation" height="40px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />](https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-applied-leadership.html "Masters of Data Science and Innovation")
+[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />][benchmark_cert]
+[<img align="left" alt="Diploma of Management" height="40px" src="https://smartandskilled.nsw.gov.au/sands/logo/rto/90274/large" />][benchmark_dipm]
+[<img align="left" alt="Bachelor of Business & Commerce (Advanced Business Leadership)" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2017/11/University-of-Western-Sydney-final.png" />][uws_bbcabl]
+[<img align="left" alt="Bachelor of Applied Leadership and Critical Thinking" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2020/06/Western-Sydney-University_Stacked-Logo-200x200-1.png" />][wsu_balct]
+[<img align="left" alt="Masters of Data Science and Innovation" height="40px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />][uts_mdsi]
 
 </br>
 </br>
@@ -135,8 +133,30 @@ Here are some ideas to get you started:
 
 -->
 
-[website]: https://chrismahoney.com.au/?target=_blank
-[linkedin]: https://www.linkedin.com/in/chrimaho/
-[github]: https://github.com/chrimaho
-[medium]: https://medium.com/@chrimaho
-[stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho
+[website]: https://chrismahoney.com.au/ "ChrisMahoney.com.au"
+[linkedin]: https://www.linkedin.com/in/chrimaho/ "LinkedIn: chrimaho"
+[github]: https://github.com/chrimaho "GitHub: chrimaho"
+[medium]: https://medium.com/@chrimaho "Medium: chrimaho"
+[stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho "StackOverflow: chrimaho"
+[dbschenker]: https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker"
+[uts]: https://mdsi.uts.edu.au/ "UTS MDSI"
+[python]: https://www.python.org/ "Python"
+[r]: https://www.r-project.org/ "R"
+[tsql]: https://www.microsoft.com/en-au/sql-server/ "t-SQL"
+[plsql]: https://oracle.com/database "PL-SQL"
+[powerquery]: https://docs.microsoft.com/en-us/power-query/ "PowerQuery"
+[vb]: https://docs.microsoft.com/en-us/dotnet/visual-basic/ "Visual Basic"
+[vscode]: https://code.visualstudio.com/ "Visual Studio Code"
+[rstudio]: https://rstudio.com/ "RStudio"
+[jupyterlab]: https://jupyterlab.readthedocs.io/en/latest/ "Jupyter Lab"
+[ssms]: https://docs.microsoft.com/en-us/sql/ssms/ "SQL Server Management Studio"
+[sqldeveloper]: http://oracle.com/technetwork/developer-tools/sql-developer/ "Oracle SQL Developer"
+[toll]: https://www.tollgroup.com/ "Toll: 8 years"
+[tnt]: https://www.tnt.com/ "TNT: 1 year"
+[rotary]: http://www.rotaryaustralia.org.au/ "Rotary: 7 years"
+[schenker]: https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker: 3 years"
+[benchmark_cert]: https://www.benchmark.edu.au/ "Cert IV Training and Assessment"
+[benchmark_dipm]: https://www.benchmark.edu.au/ "Diploma of Management"
+[uws_bbcabl]: https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-business-advanced-business-leadership.html "Bachelor of Business & Commerce (Advanced Business Leadership)"
+[wsu_balct]: https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-applied-leadership.html "Bachelor of Applied Leadership and Critical Thinking"
+[uts_mdsi]: https://www.uts.edu.au/future-students/transdisciplinary-innovation/master-data-science-and-innovation/about-master-data-science-and-innovation "Masters of Data Science and Innovation"
