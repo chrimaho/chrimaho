@@ -10,12 +10,19 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--github?label=GitHub&logo=github&style=social)][github]
 [![Connect on LinkedIn](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)][medium]
 
-### I'm a Data Scientist, Analyst, and Data Guru!
+### I'm a Data Scientist, Data Analyst, and all round Data Guru!
 
-- 👨‍💼 I currently work for [DB Schenker][dbschenker]
+<!--
+Good reference sites for emoji's:
+- https://gist.github.com/rxaviers/7360908
+- https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6
+- https://unicode.org/emoji/charts/full-emoji-list.html
+-->
+
+- 🤵 I am currently working for [DB Schenker][dbschenker]
 - 🎓 I am currently studying at [UTS][uts]
-- 💻 I'm keen to contribute to more Open Source projects
-- 👯 I'd love to collaborate more with other like-minded individuals
+- 👨‍💻 I am keen to contribute to more Open Source projects
+- 🤝 I would love to collaborate more with other like-minded individuals
 - 🛩️ Fun fact: I used to fly Glider aircraft as a hobby
 
 ---
