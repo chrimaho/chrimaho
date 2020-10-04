@@ -16,6 +16,7 @@
 Good reference sites for emoji's:
 - https://gist.github.com/rxaviers/7360908
 - https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6
+- https://github.com/ikatyang/emoji-cheat-sheet
 - https://unicode.org/emoji/charts/full-emoji-list.html
 -->
 
@@ -116,6 +117,7 @@ Good reference sites for emoji's:
 <summary>Activity</summary>
 
 <!-- GitHub Activity: https://github.com/marketplace/actions/github-activity-readme -->
+<!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
