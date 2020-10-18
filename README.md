@@ -76,11 +76,11 @@ Good reference sites for emoji's:
 <!-- Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Addressing The John Smith Problem](https://towardsdatascience.com/addressingthejohnsmithproblem-1533da4f7db8?source=rss-56d03114dd5a------2)
-- [Reinforcement Learning in the Warehousing Industry](https://medium.com/ai-in-plain-english/reinforcement-learning-in-the-warehousing-industry-a5e7f1c28422?source=rss-56d03114dd5a------2)
-- [Plotting NPS Data](https://medium.com/analytics-vidhya/plottingnps-2958b642a51f?source=rss-56d03114dd5a------2)
-- [The Future of Australian Energy Prices](https://medium.com/trends-in-data-science/ausenergyprices-737b9cbe5540?source=rss-56d03114dd5a------2)
-- [The Automation of GitHub Processes in RStudio](https://medium.com/@chrimaho/githubautomation-ce1b7616fa8c?source=rss-56d03114dd5a------2)
+- [Exploring Undernourishment: Part 8 — Recommendations and Conclusions](https://medium.com/@chrimaho/exploring-undernourishment-part-8-recommendations-and-conclusions-c5eb682bb3a5?source=rss-56d03114dd5a------2)
+- [Exploring Undernourishment: Part 7 — Research Area 4: Most Influential Indicator](https://medium.com/@chrimaho/exploring-undernourishment-part-7-research-area-4-most-influential-indicator-47ba76395f9b?source=rss-56d03114dd5a------2)
+- [Exploring Undernourishment: Part 6 — Research Area 3: Surprising Trends](https://medium.com/@chrimaho/exploring-undernourishment-part-6-research-area-3-surprising-trends-962d653a08fc?source=rss-56d03114dd5a------2)
+- [Exploring Undernourishment: Part 5 — Research Area 2: Most Successful Countries](https://medium.com/@chrimaho/exploring-undernourishment-part-5-research-area-2-most-successful-countries-c0afd1504c71?source=rss-56d03114dd5a------2)
+- [Exploring Undernourishment: Part 4 — Research Area 1: General Trend](https://medium.com/@chrimaho/exploring-undernourishment-part-4-research-area-1-general-trend-cdb8ced5b0af?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
