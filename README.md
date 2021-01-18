@@ -1,9 +1,12 @@
 ### Hi there, I'm Chris 👋
 
+<!-- 
+Good references:
+- Shield details: https://shields.io/#your-badge
+- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile
+- Another good Badges Repo: https://github.com/Ileriayo/markdown-badges 
+-->
 
-<!-- Shield details: https://shields.io/#your-badge -->
-<!-- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- Another good Badges Repo: https://github.com/Ileriayo/markdown-badges -->
 [![Connect on LinkedIn](https://img.shields.io/badge/--website?label=Website&logo=home-assistant&style=social)][website]
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=linkedin&style=social)][linkedin]
 [![Connect on LinkedIn](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
@@ -54,7 +57,8 @@ Good reference sites for emoji's:
 [<img align="left" alt="Toll" width="26px" src="https://posttrack.com/cdn/images/carriers/icons/0260-toll-group.png" />][toll]
 [<img align="left" alt="TNT" width="26px" src="https://seeklogo.net/wp-content/uploads/2016/11/tnt-logo-vector-preview.png" />][tnt]
 [<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />][rotary]
-[<img align="left" alt="Rotary" width="26px" src="https://www.spirable.com/wp-content/uploads/2019/06/Untitled-design-2.png" />][schenker]
+[<img class="badge-container" alt="DB Schenker" src="https://www.spirable.com/wp-content/uploads/2019/06/Untitled-design-2.png" />][schenker]
+[<img class="badge-container" alt="UTS" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />][schenker]
 
 </br>
 
