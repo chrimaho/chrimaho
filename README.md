@@ -1,3 +1,14 @@
+<style>
+.badge-container {
+    position: relative;
+    align: left; 
+    display: inline-block; 
+    height: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+</style>
+
 ### Hi there, I'm Chris 👋
 
 <!-- 
