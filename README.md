@@ -23,10 +23,10 @@ Good reference sites for emoji's:
 - https://unicode.org/emoji/charts/full-emoji-list.html
 -->
 
-- 🤵 I am currently working for [DB Schenker][dbschenker]
-- 🎓 I am currently studying at [UTS][uts]
-- 👨‍💻 I am keen to contribute to more Open Source projects
-- 🤝 I would love to collaborate more with other like-minded individuals
+- 🤵 I work for [DB Schenker][dbschenker]
+- 🎓 I study at [UTS][uts]
+- 💻 I'm keen to contribute to Open Source projects
+- 🤝 I'd love to collaborate with like-minded people
 - 🛩️ Fun fact: I used to fly Glider aircraft as a hobby
 
 ---
@@ -56,7 +56,7 @@ Good reference sites for emoji's:
 
 [<img align="left" alt="Toll" width="26px" src="https://posttrack.com/cdn/images/carriers/icons/0260-toll-group.png" />][toll]
 [<img align="left" alt="TNT" width="26px" src="https://seeklogo.net/wp-content/uploads/2016/11/tnt-logo-vector-preview.png" />][tnt]
-[<img align="left" alt="Rotary" width="26px" src="https://logos-download.com/wp-content/uploads/2017/11/Rotary_International_logo_yellow.svg" />][rotary]
+[<img align="left" alt="Rotary" width="26px" src="https://clubrunner.blob.core.windows.net/00000050229/Images/RotaryMoE_RGB.png" />][rotary]
 [<img align="left" alt="DB Schenker" width="26px" src="https://www.spirable.com/wp-content/uploads/2019/06/Untitled-design-2.png" />][schenker]
 [<img align="left" alt="UTS" width="26px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />][schenker]
 
