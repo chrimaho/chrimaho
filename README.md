@@ -124,7 +124,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com/halogenica/beautifulhugo/pull/365) in [halogenica/beautifulhugo](https://github.com/halogenica/beautifulhugo)
+1. 💪 Opened PR [#184](https://github.com/NilsJPWerner/autoDocstring/pull/184) in [NilsJPWerner/autoDocstring](https://github.com/NilsJPWerner/autoDocstring)
 <!--END_SECTION:activity-->
 
 </details>
