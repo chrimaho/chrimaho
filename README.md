@@ -124,7 +124,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/NilsJPWerner/autoDocstring/pull/184) in [NilsJPWerner/autoDocstring](https://github.com/NilsJPWerner/autoDocstring)
+1. 🗣 Commented on [#351](https://github.com/dbader/schedule/issues/351) in [dbader/schedule](https://github.com/dbader/schedule)
 <!--END_SECTION:activity-->
 
 </details>
