@@ -80,11 +80,11 @@ Good reference sites for emoji's:
 <!-- Blog Post Workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Code Snippets](https://medium.com/codex/the-power-of-code-snippets-9b0359e7ae2d?source=rss-56d03114dd5a------2)
 - [Mental Models and Social Situations](https://betterhumans.pub/mental-models-80eb02b0dd70?source=rss-56d03114dd5a------2)
 - [Reinforcement Learning](https://towardsdatascience.com/reinforcement-learning-fda8ff535bb6?source=rss-56d03114dd5a------2)
 - [Vanilla Neural Networks in R](https://towardsdatascience.com/vanilla-neural-networks-in-r-43b028f415?source=rss-56d03114dd5a------2)
 - [Exploring Undernourishment: Part 8 — Recommendations and Conclusions](https://medium.com/swlh/exploring-undernourishment-part-8-recommendations-and-conclusions-c5eb682bb3a5?source=rss-56d03114dd5a------2)
-- [Exploring Undernourishment: Part 7 — Research Area 4: Most Influential Indicator](https://medium.com/swlh/exploring-undernourishment-part-7-research-area-4-most-influential-indicator-47ba76395f9b?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
