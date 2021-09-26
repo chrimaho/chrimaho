@@ -124,7 +124,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1505](https://github.com/mermaid-js/mermaid/issues/1505) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+1. 🗣 Commented on [#256](https://github.com/mermaid-js/mermaid/issues/256) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 <!--END_SECTION:activity-->
 
 </details>
