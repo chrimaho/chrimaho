@@ -124,7 +124,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/chrimaho/py-tictoc-timer/pull/23) in [chrimaho/py-tictoc-timer](https://github.com/chrimaho/py-tictoc-timer)
+1. 🎉 Merged PR [#26](https://github.com/chrimaho/py-tictoc-timer/pull/26) in [chrimaho/py-tictoc-timer](https://github.com/chrimaho/py-tictoc-timer)
 <!--END_SECTION:activity-->
 
 </details>
