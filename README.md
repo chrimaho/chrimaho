@@ -124,7 +124,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#537](https://github.com/databrickslabs/dbx/issues/537) in [databrickslabs/dbx](https://github.com/databrickslabs/dbx)
+1. ❗️ Opened issue [#3168](https://github.com/pycaret/pycaret/issues/3168) in [pycaret/pycaret](https://github.com/pycaret/pycaret)
 <!--END_SECTION:activity-->
 
 </details>
