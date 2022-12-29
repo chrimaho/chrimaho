@@ -39,7 +39,7 @@ Good reference sites for emoji's:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 [<img align="left" alt="t-SQL" width="26px" src="https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629" />][tsql]
-[<img align="left" alt="Oracle" height="26px" src="https://www.tenfold.com/wp-content/uploads/2017/05/icon-oracle-sales-cloud.png" />][plsql]
+[<img align="left" alt="Oracle" height="26px" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo106.png" />][plsql]
 [<img align="left" alt="PowerQuery" width="26px" src="https://computrain.com//wp-content/uploads/2018/02/pq-icon-150x150.png" />][powerquery]
 [<img align="left" alt="VB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vb.svg" />][vb]
 
