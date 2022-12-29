@@ -156,6 +156,7 @@ Here are some ideas to get you started:
 [medium]: https://medium.com/@chrimaho "Medium"
 [stackoverflow]: https://stackoverflow.com/users/12036005/chrimaho "StackOverflow"
 [dbschenker]: https://www.dbschenker.com/au-en/about/innovation-digitalization "DB Schenker"
+[wsu]: https://www.westernsydney.edu.au/ "Western Sydney University"
 [uts]: https://mdsi.uts.edu.au/ "UTS MDSI"
 [python]: https://www.python.org/ "Python"
 [r]: https://www.r-project.org/ "R"
