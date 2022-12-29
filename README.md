@@ -24,7 +24,7 @@ Good reference sites for emoji's:
 -->
 
 - 🤵 I work for [DB Schenker][dbschenker]
-- 🎓 I study at [UTS][uts]
+- 🎓 I studied at [WSU][wsu] & [UTS][uts]
 - 💻 I'm keen to contribute to Open Source projects
 - 🤝 I'd love to collaborate with like-minded people
 - 🛩️ Fun fact: I used to fly Glider aircraft as a hobby
