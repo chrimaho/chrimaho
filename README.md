@@ -11,7 +11,10 @@ Good references:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=linkedin&style=social)][linkedin]
 [![Connect on LinkedIn](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
 [![Connect on LinkedIn](https://img.shields.io/badge/--github?label=GitHub&logo=github&style=social)][github]
-[![Connect on LinkedIn](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)][medium]
+[![Connect on LinkedIn](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)][medium]  
+![Profile Views](https://komarev.com/ghpvc/?username=chrimaho&label=Profile+Views&style=social)
+![Followers](https://img.shields.io/github/followers/chrimaho?style=social)
+![Stars](https://img.shields.io/github/stars/chrimaho?style=social)
 
 ### I'm a Data Scientist, Data Analyst, and all round Data Guru!
 
