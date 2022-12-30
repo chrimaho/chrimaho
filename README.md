@@ -38,33 +38,51 @@ Good reference sites for emoji's:
 ### Tech Stack
 
 **My Languages**:  
-![][shield-python]![][shield-r]![][shield-tsql]![][shield-plsql]![][shield-powerquery]![][shield-vb]
+[![][shield-python]][python]
+[![][shield-r]][r]
+[![][shield-tsql]][tsql]
+[![][shield-plsql]][plsql]
+[![][shield-powerquery]][powerquery]
+[![][shield-vb]][vb]
 
 [shield-python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [shield-r]: https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white
 [shield-tsql]: https://img.shields.io/badge/t--sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-[shield-plsql]: https://img.shields.io/badge/pl--sql-F80000?style=for-the-badge&logo=oracle&logoColor=white
+[shield-plsql]: https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
 [shield-powerquery]: https://img.shields.io/badge/power_query-1e7043?style=for-the-badge&logo=monster&logoColor=white
 [shield-vb]: https://img.shields.io/badge/visual_basic-00519a?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV92YjwvdGl0bGU+PHBhdGggZD0iTTYuNjcsNy44MzYsOSwxOC45MTUsMTEuMzM2LDcuODM2SDE2TDExLjMzNiwyNC4xNjRINi42NzJMMiw3LjgzNloiIHN0eWxlPSJmaWxsOndoaXRlIi8+PHBhdGggZD0iTTE4LjMzMSw3LjgzNmg3LjZhNC4wOCw0LjA4LDAsMCwxLDIuOSwxLjc0OSwzLjc4LDMuNzgsMCwwLDEsLjU3MSwyLjA0LDMuOTg1LDMuOTg1LDAsMCwxLS41NzEsMi4wMzQsNC4xMDgsNC4xMDgsMCwwLDEtMi4zNDEsMS43NjMsNC4xLDQuMSwwLDAsMSwyLjkyOSwxLjc1NiwzLjgsMy44LDAsMCwxLC41OCwyLjEsNC42NjMsNC42NjMsMCwwLDEtLjU3OSwyLjU0Niw1LjA0Nyw1LjA0NywwLDAsMS0zLjUsMi4zMzhIMTguMzMxWk0yMywxNC4yNTJoMS4xNjZhMS43NTQsMS43NTQsMCwwLDAsMC0zLjVIMjNabTAsN0gyNC4zOWEyLjA0NywyLjA0NywwLDAsMCwwLTQuMDg5SDIzWiIgc3R5bGU9ImZpbGw6d2hpdGUiLz48L3N2Zz4=
 
+<!--
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 [<img align="left" alt="t-SQL" width="26px" src="https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629" />][tsql]
 [<img align="left" alt="Oracle" height="26px" src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo106.png" />][plsql]
 [<img align="left" alt="PowerQuery" width="26px" src="https://computrain.com//wp-content/uploads/2018/02/pq-icon-150x150.png" />][powerquery]
 [<img align="left" alt="VB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vb.svg" />][vb]
+-->
 
-</br>
+**My IDE's**:  
+[![][shield-vscode]][vscode]
+[![][shield-rstudio]][rstudio]
+[![][shield-jupyter]][jupyter]
+[![][shield-databricks]][databricks]
+[![][shield-ssms]][ssms]
+[![][shield-oracle-sql]][sqldeveloper]
 
-### My IDE's:
+[shield-vscode]: https://img.shields.io/badge/vs_code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[shield-rstudio]: https://img.shields.io/badge/r_studio-75aadb?style=for-the-badge&logo=rstudio&logoColor=white
+[shield-jupyter]: https://img.shields.io/badge/jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white
+[shield-databricks]: https://img.shields.io/badge/databricks-ff3621?style=for-the-badge&logo=databricks&logoColor=white
+[shield-ssms]: https://img.shields.io/badge/ssms-ecb213?style=for-the-badge&logo=steamdb&logoColor=white&Color=white
+[shield-oracle-sql]: https://img.shields.io/badge/oracle_sql-lightgrey?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&Color=white
 
+<!--
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
 [<img align="left" alt="RStudio" width="26px" src="https://enholm.net/wp-content/uploads/2015/08/RStudio-Ball.png" />][rstudio]
-[<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png" />][jupyterlab]
+[<img align="left" alt="Jupyter Lab" width="26px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png" />][jupyter]
 [<img align="left" alt="SQL Server Management Studio" width="26px" src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" />][ssms]
 [<img align="left" alt="Oracle SQL Developer" width="26px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-28.png" />][sqldeveloper]
-
-</br>
+-->
 
 ### Corporate Experience:
 
@@ -177,7 +195,8 @@ Here are some ideas to get you started:
 [vb]: https://docs.microsoft.com/en-us/dotnet/visual-basic/ "Visual Basic"
 [vscode]: https://code.visualstudio.com/ "Visual Studio Code"
 [rstudio]: https://rstudio.com/ "RStudio"
-[jupyterlab]: https://jupyterlab.readthedocs.io/en/latest/ "Jupyter Lab"
+[jupyter]: https://jupyterlab.readthedocs.io/en/latest/ "Jupyter Lab"
+[databricks]: https://www.databricks.com/ "Databricks"
 [ssms]: https://docs.microsoft.com/en-us/sql/ssms/ "SQL Server Management Studio"
 [sqldeveloper]: http://oracle.com/technetwork/developer-tools/sql-developer/ "Oracle SQL Developer"
 [toll]: https://www.tollgroup.com/ "Toll: 8 years"
