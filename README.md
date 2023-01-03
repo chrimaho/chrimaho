@@ -1,4 +1,6 @@
-### Hi there, I'm Chris 👋
+<div align="center">
+
+## Chris Mahoney
 
 <!-- 
 Good references:
@@ -16,6 +18,7 @@ Good references:
 ![Followers](https://img.shields.io/github/followers/chrimaho?style=social)
 ![Stars](https://img.shields.io/github/stars/chrimaho?style=social)
 
+</div>
 
 ### I'm a Data Scientist, Data Analyst, and all round Data Guru!
 
