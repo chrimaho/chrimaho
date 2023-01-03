@@ -7,7 +7,7 @@ Good references:
 - Another good Badges Repo: https://github.com/Ileriayo/markdown-badges 
 -->
 
-[![My Website](https://img.shields.io/badge/--website?label=Website&style=social&logo=home-assistant)][website]
+[![My Website](https://img.shields.io/badge/--website?label=Website&style=social&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggZD0iTTIzLjIgMTAuNSAyMSA4LjNWM2MwLS44LS43LTEuNS0xLjUtMS41SDE4Yy0uOCAwLTEuNS43LTEuNSAxLjV2LjhsLTMtM0MxMy4xLjQgMTIuNyAwIDEyIDBzLTEgLjQtMS41LjhMLjggMTAuNWMtLjQuNS0uOC44LS44IDEuNSAwIC44LjYgMS41IDEuNSAxLjVIM3Y5YzAgLjguNyAxLjUgMS41IDEuNUg5di03LjVjMC0uOC43LTEuNSAxLjUtMS41aDNjLjggMCAxLjUuNyAxLjUgMS41VjI0aDQuNWMuOCAwIDEuNS0uNyAxLjUtMS41di05aDEuNWMuOSAwIDEuNS0uNyAxLjUtMS41IDAtLjctLjQtMS0uOC0xLjVaIi8+PC9zdmc+)][website]
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=linkedin&style=social)][linkedin]
 [![StackOverflow](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
 [![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=github&style=social)][github]
