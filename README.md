@@ -1,6 +1,6 @@
 <div align="center">
 
-## Chris Mahoney
+# Chris Mahoney
 
 <!-- 
 Good references:
@@ -10,16 +10,20 @@ Good references:
 -->
 
 [![My Website][shield-globe]][website]
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=linkedin&style=social)][linkedin]
-[![StackOverflow](https://img.shields.io/badge/--stackoverflow?label=StackOverflow&logo=stack-overflow&style=social)][stackoverflow]
-[![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=github&style=social)][github]
-[![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)][medium]  
+[![LinkedIn][shield-linkedin]][linkedin]
+[![StackOverflow][shield-so]][stackoverflow]
+[![GitHub][shield-github]][github]
+[![Medium][shield-medium]][medium]  
 ![Profile Views][shield-views]
 ![Followers][shield-followers]
 ![Stars][shield-stars]
 
 [shield-home]:      https://img.shields.io/badge/--website?label=Website&style=social&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggZD0iTTIzLjIgMTAuNSAyMSA4LjNWM2MwLS44LS43LTEuNS0xLjUtMS41SDE4Yy0uOCAwLTEuNS43LTEuNSAxLjV2LjhsLTMtM0MxMy4xLjQgMTIuNyAwIDEyIDBzLTEgLjQtMS41LjhMLjggMTAuNWMtLjQuNS0uOC44LS44IDEuNSAwIC44LjYgMS41IDEuNSAxLjVIM3Y5YzAgLjguNyAxLjUgMS41IDEuNUg5di03LjVjMC0uOC43LTEuNSAxLjUtMS41aDNjLjggMCAxLjUuNyAxLjUgMS41VjI0aDQuNWMuOCAwIDEuNS0uNyAxLjUtMS41di05aDEuNWMuOSAwIDEuNS0uNyAxLjUtMS41IDAtLjctLjQtMS0uOC0xLjVaIi8+PC9zdmc+
-[shield-globe]:     https://img.shields.io/badge/--website?label=Website&style=social&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwYTEyIDEyIDAgMSAwIDAgMjQgMTIgMTIgMCAwIDAgMC0yNFpNMS41NCAxMi43NWgzLjc0Yy4wNSAxLjQuMjUgMi42NS41NCAzLjc1aC0zLjNjLS41NS0xLjE4LS44OS0yLjQ1LS45OC0zLjc1Wk0xMi43NSA2VjEuNjZjLjcuNTIgMi4yNSAxLjg3IDMuMzIgNC4zNWgtMy4zMlY2Wm0zLjg4IDEuNWMuMzIgMS4wOC41MyAyLjMyLjYgMy43NWgtNC40OFY3LjVoMy44OFpNMTAuOSAxLjkybC4zNC0uMjZWNkg3LjkyYy40LS45Ljg2LTEuNjcgMS4zLTIuMjguNjItLjgzIDEuMjMtMS40MyAxLjctMS44Wm0uMzQgNS41OHYzLjc1SDYuNzhjLjA2LTEuNDMuMjgtMi42Ny42LTMuNzVoMy44N1ptLTUuOTcgMy43NUgxLjU0Yy4xLTEuMzQuNDQtMi42Ljk5LTMuNzVoMy4yOWMtLjMgMS4xLS40OSAyLjM2LS41NCAzLjc1Wm0xLjUgMS41aDQuNDd2My43NUg3LjM3YTE1LjQyIDE1LjQyIDAgMCAxLS42LTMuNzVoLjAxWk0xMS4yNSAxOHY0LjM0Yy0uNy0uNTItMi4yNS0xLjg3LTMuMzItNC4zNGgzLjMyWm0xLjg0IDQuMDgtLjM0LjI2VjE4aDMuMzNjLS40LjktLjg1IDEuNjUtMS4zMSAyLjI3LS40OS42Ny0xLjA1IDEuMjctMS42OCAxLjh2LjAxWm0tLjM0LTUuNTh2LTMuNzVoNC40N2ExNS43IDE1LjcgMCAwIDEtLjYgMy43NWgtMy44N1ptNS45Ny0zLjc1aDMuNzRjLS4xIDEuMy0uNDMgMi41Ny0uOTkgMy43NWgtMy4yOWMuMy0xLjEuNDktMi4zNi41NC0zLjc1Wm0wLTEuNWExNy4wMyAxNy4wMyAwIDAgMC0uNTQtMy43NWgzLjNjLjU0IDEuMTUuODggMi40MS45OCAzLjc1aC0zLjc0Wk0yMC42IDZoLTIuOTJhMTMuMzYgMTMuMzYgMCAwIDAtMi4zMy0zLjk0YzIuMTUuNzIgMy45OCAyLjEyIDUuMjUgMy45NFpNOC42NSAyLjA2Yy0xIDEuMTctMS43OSAyLjUtMi4zMyAzLjk0SDMuMzlhMTAuNTIgMTAuNTIgMCAwIDEgNS4yNi0zLjk0Wk0zLjQgMThoMi45MmMuNjUgMS43MSAxLjUyIDMgMi4zMiAzLjk0QTEwLjUyIDEwLjUyIDAgMCAxIDMuNCAxOFptMTEuOTUgMy45NGMxLTEuMTcgMS43OS0yLjUgMi4zMy0zLjk0aDIuOTJhMTAuNTIgMTAuNTIgMCAwIDEtNS4yNSAzLjk0WiIvPjwvc3ZnPg==
+[shield-globe]:     https://img.shields.io/static/v1?style=flat&label=+&color=grey&logoColor=black&labelColor=gainsboro&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwYTEyIDEyIDAgMSAwIDAgMjQgMTIgMTIgMCAwIDAgMC0yNFpNMS41NCAxMi43NWgzLjc0Yy4wNSAxLjQuMjUgMi42NS41NCAzLjc1aC0zLjNjLS41NS0xLjE4LS44OS0yLjQ1LS45OC0zLjc1Wk0xMi43NSA2VjEuNjZjLjcuNTIgMi4yNSAxLjg3IDMuMzIgNC4zNWgtMy4zMlY2Wm0zLjg4IDEuNWMuMzIgMS4wOC41MyAyLjMyLjYgMy43NWgtNC40OFY3LjVoMy44OFpNMTAuOSAxLjkybC4zNC0uMjZWNkg3LjkyYy40LS45Ljg2LTEuNjcgMS4zLTIuMjguNjItLjgzIDEuMjMtMS40MyAxLjctMS44Wm0uMzQgNS41OHYzLjc1SDYuNzhjLjA2LTEuNDMuMjgtMi42Ny42LTMuNzVoMy44N1ptLTUuOTcgMy43NUgxLjU0Yy4xLTEuMzQuNDQtMi42Ljk5LTMuNzVoMy4yOWMtLjMgMS4xLS40OSAyLjM2LS41NCAzLjc1Wm0xLjUgMS41aDQuNDd2My43NUg3LjM3YTE1LjQyIDE1LjQyIDAgMCAxLS42LTMuNzVoLjAxWk0xMS4yNSAxOHY0LjM0Yy0uNy0uNTItMi4yNS0xLjg3LTMuMzItNC4zNGgzLjMyWm0xLjg0IDQuMDgtLjM0LjI2VjE4aDMuMzNjLS40LjktLjg1IDEuNjUtMS4zMSAyLjI3LS40OS42Ny0xLjA1IDEuMjctMS42OCAxLjh2LjAxWm0tLjM0LTUuNTh2LTMuNzVoNC40N2ExNS43IDE1LjcgMCAwIDEtLjYgMy43NWgtMy44N1ptNS45Ny0zLjc1aDMuNzRjLS4xIDEuMy0uNDMgMi41Ny0uOTkgMy43NWgtMy4yOWMuMy0xLjEuNDktMi4zNi41NC0zLjc1Wm0wLTEuNWExNy4wMyAxNy4wMyAwIDAgMC0uNTQtMy43NWgzLjNjLjU0IDEuMTUuODggMi40MS45OCAzLjc1aC0zLjc0Wk0yMC42IDZoLTIuOTJhMTMuMzYgMTMuMzYgMCAwIDAtMi4zMy0zLjk0YzIuMTUuNzIgMy45OCAyLjEyIDUuMjUgMy45NFpNOC42NSAyLjA2Yy0xIDEuMTctMS43OSAyLjUtMi4zMyAzLjk0SDMuMzlhMTAuNTIgMTAuNTIgMCAwIDEgNS4yNi0zLjk0Wk0zLjQgMThoMi45MmMuNjUgMS43MSAxLjUyIDMgMi4zMiAzLjk0QTEwLjUyIDEwLjUyIDAgMCAxIDMuNCAxOFptMTEuOTUgMy45NGMxLTEuMTcgMS43OS0yLjUgMi4zMy0zLjk0aDIuOTJhMTAuNTIgMTAuNTIgMCAwIDEtNS4yNSAzLjk0WiIvPjwvc3ZnPg==
+[shield-linkedin]:  https://img.shields.io/static/v1?style=flat&label=+&color=grey&logoColor=black&labelColor=gainsboro&message=LinkedIn&logo=linkedin
+[shield-so]:        https://img.shields.io/static/v1?style=flat&label=+&color=grey&logoColor=black&labelColor=gainsboro&message=Stack+Overflow&logo=stack-overflow
+[shield-github]:    https://img.shields.io/static/v1?style=flat&label=+&color=grey&logoColor=black&labelColor=gainsboro&message=GitHub&logo=github
+[shield-medium]:    https://img.shields.io/static/v1?style=flat&label=+&color=grey&logoColor=black&labelColor=gainsboro&message=Medium&logo=medium
 [shield-views]:     https://komarev.com/ghpvc/?username=chrimaho&label=Profile+Views+👀&style=flat&color=lightgrey&logo=github
 [shield-followers]: https://img.shields.io/github/followers/chrimaho?style=flat&label=Followers+👍&logo=github&color=lightgrey&labelColor=grey&logoColor=white
 [shield-stars]:     https://img.shields.io/github/stars/chrimaho?style=flat&label=Stars+⭐&logo=github&color=lightgrey&labelColor=grey&logoColor=white
