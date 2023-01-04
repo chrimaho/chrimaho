@@ -51,12 +51,12 @@ Good reference sites for emoji's:
 [![][shield-powerquery]][powerquery]
 [![][shield-vb]][vb]
 
-[shield-python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[shield-r]: https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white
-[shield-tsql]: https://img.shields.io/badge/t--sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-[shield-plsql]: https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
-[shield-powerquery]: https://img.shields.io/badge/power_query-1e7043?style=for-the-badge&logo=monster&logoColor=white
-[shield-vb]: https://img.shields.io/badge/visual_basic-00519a?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV92YjwvdGl0bGU+PHBhdGggZD0iTTYuNjcsNy44MzYsOSwxOC45MTUsMTEuMzM2LDcuODM2SDE2TDExLjMzNiwyNC4xNjRINi42NzJMMiw3LjgzNloiIHN0eWxlPSJmaWxsOndoaXRlIi8+PHBhdGggZD0iTTE4LjMzMSw3LjgzNmg3LjZhNC4wOCw0LjA4LDAsMCwxLDIuOSwxLjc0OSwzLjc4LDMuNzgsMCwwLDEsLjU3MSwyLjA0LDMuOTg1LDMuOTg1LDAsMCwxLS41NzEsMi4wMzQsNC4xMDgsNC4xMDgsMCwwLDEtMi4zNDEsMS43NjMsNC4xLDQuMSwwLDAsMSwyLjkyOSwxLjc1NiwzLjgsMy44LDAsMCwxLC41OCwyLjEsNC42NjMsNC42NjMsMCwwLDEtLjU3OSwyLjU0Niw1LjA0Nyw1LjA0NywwLDAsMS0zLjUsMi4zMzhIMTguMzMxWk0yMywxNC4yNTJoMS4xNjZhMS43NTQsMS43NTQsMCwwLDAsMC0zLjVIMjNabTAsN0gyNC4zOWEyLjA0NywyLjA0NywwLDAsMCwwLTQuMDg5SDIzWiIgc3R5bGU9ImZpbGw6d2hpdGUiLz48L3N2Zz4=
+[shield-python]: https://img.shields.io/static/v1?label=%20&message=Python&style=flat&logo=python&logoColor=white&labelColor=grey&color=3776AB
+[shield-r]: https://img.shields.io/static/v1?label=%20&message=R&style=flat&logo=r&logoColor=white&labelColor=grey&color=276DC3
+[shield-tsql]: https://img.shields.io/static/v1?label=%20&message=T-SQL&style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=grey&color=CC2927
+[shield-plsql]: https://img.shields.io/static/v1?label=%20&message=Oracle&style=flat&logo=oracle&logoColor=white&labelColor=grey&color=F80000
+[shield-powerquery]: https://img.shields.io/static/v1?label=%20&message=Power%20Query&style=flat&logo=monster&logoColor=white&labelColor=grey&color=1E7043
+[shield-vb]: https://img.shields.io/static/v1?label=%20&message=Visual%20Basic&style=flat&logoColor=white&labelColor=grey&color=00159A&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV92YjwvdGl0bGU+PHBhdGggZD0iTTYuNjcsNy44MzYsOSwxOC45MTUsMTEuMzM2LDcuODM2SDE2TDExLjMzNiwyNC4xNjRINi42NzJMMiw3LjgzNloiIHN0eWxlPSJmaWxsOndoaXRlIi8+PHBhdGggZD0iTTE4LjMzMSw3LjgzNmg3LjZhNC4wOCw0LjA4LDAsMCwxLDIuOSwxLjc0OSwzLjc4LDMuNzgsMCwwLDEsLjU3MSwyLjA0LDMuOTg1LDMuOTg1LDAsMCwxLS41NzEsMi4wMzQsNC4xMDgsNC4xMDgsMCwwLDEtMi4zNDEsMS43NjMsNC4xLDQuMSwwLDAsMSwyLjkyOSwxLjc1NiwzLjgsMy44LDAsMCwxLC41OCwyLjEsNC42NjMsNC42NjMsMCwwLDEtLjU3OSwyLjU0Niw1LjA0Nyw1LjA0NywwLDAsMS0zLjUsMi4zMzhIMTguMzMxWk0yMywxNC4yNTJoMS4xNjZhMS43NTQsMS43NTQsMCwwLDAsMC0zLjVIMjNabTAsN0gyNC4zOWEyLjA0NywyLjA0NywwLDAsMCwwLTQuMDg5SDIzWiIgc3R5bGU9ImZpbGw6d2hpdGUiLz48L3N2Zz4=
 
 <!--
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
