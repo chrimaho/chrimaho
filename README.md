@@ -198,7 +198,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57](https://github.com/antonkomarev/github-profile-views-counter/issues/57) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+1. 🎉 Merged PR [#31](https://github.com/chrimaho/ts-stat-tests/pull/31) in [chrimaho/ts-stat-tests](https://github.com/chrimaho/ts-stat-tests)
 <!--END_SECTION:activity-->
 
 </details>
