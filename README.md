@@ -9,7 +9,7 @@ Good references:
 - Another good Badges Repo: https://github.com/Ileriayo/markdown-badges 
 -->
 
-[![My Website][shield-globe]][website]
+[![My Website][shield-home]][website]
 [![LinkedIn][shield-linkedin]][linkedin]
 [![StackOverflow][shield-so]][stackoverflow]
 [![GitHub][shield-github]][github]
@@ -18,7 +18,7 @@ Good references:
 ![Followers][shield-followers]
 ![Stars][shield-stars]
 
-[shield-home]:      https://img.shields.io/badge/--website?label=Website&style=social&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0yMy4yIDEwLjUgMjEgOC4zVjNjMC0uOC0uNy0xLjUtMS41LTEuNUgxOGMtLjggMC0xLjUuNy0xLjUgMS41di44bC0zLTNDMTMuMS40IDEyLjcgMCAxMiAwcy0xIC40LTEuNS44TC44IDEwLjVjLS40LjUtLjguOC0uOCAxLjUgMCAuOC42IDEuNSAxLjUgMS41SDN2OWMwIC44LjcgMS41IDEuNSAxLjVIOXYtNy41YzAtLjguNy0xLjUgMS41LTEuNWgzYy44IDAgMS41LjcgMS41IDEuNVYyNGg0LjVjLjggMCAxLjUtLjcgMS41LTEuNXYtOWgxLjVjLjkgMCAxLjUtLjcgMS41LTEuNSAwLS43LS40LTEtLjgtMS41WiIvPjwvc3ZnPg==
+[shield-home]:      https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0yMy4yIDEwLjUgMjEgOC4zVjNjMC0uOC0uNy0xLjUtMS41LTEuNUgxOGMtLjggMC0xLjUuNy0xLjUgMS41di44bC0zLTNDMTMuMS40IDEyLjcgMCAxMiAwcy0xIC40LTEuNS44TC44IDEwLjVjLS40LjUtLjguOC0uOCAxLjUgMCAuOC42IDEuNSAxLjUgMS41SDN2OWMwIC44LjcgMS41IDEuNSAxLjVIOXYtNy41YzAtLjguNy0xLjUgMS41LTEuNWgzYy44IDAgMS41LjcgMS41IDEuNVYyNGg0LjVjLjggMCAxLjUtLjcgMS41LTEuNXYtOWgxLjVjLjkgMCAxLjUtLjcgMS41LTEuNSAwLS43LS40LTEtLjgtMS41WiIvPjwvc3ZnPg==
 [shield-globe]:     https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIHN0eWxlPSJmaWxsOndoaXRlIiBkPSJNMTIgMGExMiAxMiAwIDEgMCAwIDI0IDEyIDEyIDAgMCAwIDAtMjRaTTEuNTQgMTIuNzVoMy43NGMuMDUgMS40LjI1IDIuNjUuNTQgMy43NWgtMy4zYy0uNTUtMS4xOC0uODktMi40NS0uOTgtMy43NVpNMTIuNzUgNlYxLjY2Yy43LjUyIDIuMjUgMS44NyAzLjMyIDQuMzVoLTMuMzJWNlptMy44OCAxLjVjLjMyIDEuMDguNTMgMi4zMi42IDMuNzVoLTQuNDhWNy41aDMuODhaTTEwLjkgMS45MmwuMzQtLjI2VjZINy45MmMuNC0uOS44Ni0xLjY3IDEuMy0yLjI4LjYyLS44MyAxLjIzLTEuNDMgMS43LTEuOFptLjM0IDUuNTh2My43NUg2Ljc4Yy4wNi0xLjQzLjI4LTIuNjcuNi0zLjc1aDMuODdabS01Ljk3IDMuNzVIMS41NGMuMS0xLjM0LjQ0LTIuNi45OS0zLjc1aDMuMjljLS4zIDEuMS0uNDkgMi4zNi0uNTQgMy43NVptMS41IDEuNWg0LjQ3djMuNzVINy4zN2ExNS40MiAxNS40MiAwIDAgMS0uNi0zLjc1aC4wMVpNMTEuMjUgMTh2NC4zNGMtLjctLjUyLTIuMjUtMS44Ny0zLjMyLTQuMzRoMy4zMlptMS44NCA0LjA4LS4zNC4yNlYxOGgzLjMzYy0uNC45LS44NSAxLjY1LTEuMzEgMi4yNy0uNDkuNjctMS4wNSAxLjI3LTEuNjggMS44di4wMVptLS4zNC01LjU4di0zLjc1aDQuNDdhMTUuNyAxNS43IDAgMCAxLS42IDMuNzVoLTMuODdabTUuOTctMy43NWgzLjc0Yy0uMSAxLjMtLjQzIDIuNTctLjk5IDMuNzVoLTMuMjljLjMtMS4xLjQ5LTIuMzYuNTQtMy43NVptMC0xLjVhMTcuMDMgMTcuMDMgMCAwIDAtLjU0LTMuNzVoMy4zYy41NCAxLjE1Ljg4IDIuNDEuOTggMy43NWgtMy43NFpNMjAuNiA2aC0yLjkyYTEzLjM2IDEzLjM2IDAgMCAwLTIuMzMtMy45NGMyLjE1LjcyIDMuOTggMi4xMiA1LjI1IDMuOTRaTTguNjUgMi4wNmMtMSAxLjE3LTEuNzkgMi41LTIuMzMgMy45NEgzLjM5YTEwLjUyIDEwLjUyIDAgMCAxIDUuMjYtMy45NFpNMy40IDE4aDIuOTJjLjY1IDEuNzEgMS41MiAzIDIuMzIgMy45NEExMC41MiAxMC41MiAwIDAgMSAzLjQgMThabTExLjk1IDMuOTRjMS0xLjE3IDEuNzktMi41IDIuMzMtMy45NGgyLjkyYTEwLjUyIDEwLjUyIDAgMCAxLTUuMjUgMy45NFoiLz48L3N2Zz4=
 [shield-linkedin]:  https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=LinkedIn&logo=linkedin
 [shield-so]:        https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Stack+Overflow&logo=stack-overflow
@@ -108,16 +108,6 @@ Good reference sites for emoji's:
 [shield-benchmark-civ]: https://img.shields.io/static/v1?&style=flat&color=gainsboro&label=Benchmark+College&logoColor=white&labelColor=043574&message=Cert+IV+in+Training+%26+Assessment&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2hpZWxkPC90aXRsZT48cGF0aCBzdHlsZT0iZmlsbDp3aGl0ZSIgZD0iTSAxLjEwMSAwIEwgMS4xMDEgOS40NTUgQyAxLjEwMSAxMy40MzYgMi42OTEgMTYuNDk0IDQuNjUyIDE4Ljc1MiBDIDcuODI1IDIyLjQyNyAxMiAyNCAxMiAyNCBDIDEyIDI0IDE2LjE3NSAyMi40MjcgMTkuMzQ4IDE4Ljc1MiBDIDIxLjMwOSAxNi40OTQgMjIuODk5IDEzLjQzNiAyMi44OTkgOS40NTUgTCAyMi44OTkgMCBMIDEuMTAxIDAgWiIvPjwvc3ZnPg==
 [shield-benchmark-dip]: https://img.shields.io/static/v1?&style=flat&color=gainsboro&label=Benchmark+College&logoColor=white&labelColor=043574&message=Diploma+of+Management&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2hpZWxkPC90aXRsZT48cGF0aCBzdHlsZT0iZmlsbDp3aGl0ZSIgZD0iTSAxLjEwMSAwIEwgMS4xMDEgOS40NTUgQyAxLjEwMSAxMy40MzYgMi42OTEgMTYuNDk0IDQuNjUyIDE4Ljc1MiBDIDcuODI1IDIyLjQyNyAxMiAyNCAxMiAyNCBDIDEyIDI0IDE2LjE3NSAyMi40MjcgMTkuMzQ4IDE4Ljc1MiBDIDIxLjMwOSAxNi40OTQgMjIuODk5IDEzLjQzNiAyMi44OTkgOS40NTUgTCAyMi44OTkgMCBMIDEuMTAxIDAgWiIvPjwvc3ZnPg==
 
-<!--
-[<img align="left" alt="Cert IV Training and Assessment" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMRm99KHU5nkIAMTOTUOEZ14VYuMFXM8y_Hw&usqp=CAU" />][benchmark_cert]
-[<img align="left" alt="Diploma of Management" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMRm99KHU5nkIAMTOTUOEZ14VYuMFXM8y_Hw&usqp=CAU" />][benchmark_dipm]
-[<img align="left" alt="Bachelor of Business & Commerce (Advanced Business Leadership)" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2017/11/University-of-Western-Sydney-final.png" />][uws_bbcabl]
-[<img align="left" alt="Bachelor of Applied Leadership and Critical Thinking" height="40px" src="https://www.greeningaustralia.org.au/wp-content/uploads/2020/06/Western-Sydney-University_Stacked-Logo-200x200-1.png" />][wsu_balct]
-[<img align="left" alt="Masters of Data Science and Innovation" height="40px" src="https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg" />][uts_mdsi]
-
-</br>
-</br>
--->
 
 ## 
 
