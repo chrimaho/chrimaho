@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8843](https://github.com/badges/shields/issues/8843) in [badges/shields](https://github.com/badges/shields)
+1. ❗️ Opened issue [#5587](https://github.com/pypa/pipenv/issues/5587) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
 
 </details>
