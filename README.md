@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/v2.1.1) in [chrimaho/py-tictoc-timer](https://github.com/chrimaho/py-tictoc-timer)
+1. 💪 Opened PR [#514](https://github.com/tidyverse/stringr/pull/514) in [tidyverse/stringr](https://github.com/tidyverse/stringr)
 <!--END_SECTION:activity-->
 
 </details>
