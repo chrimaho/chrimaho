@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53609](https://github.com/pandas-dev/pandas/pull/53609) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+1. 🗣 Commented on [#26695](https://github.com/scikit-learn/scikit-learn/issues/26695) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 <!--END_SECTION:activity-->
 
 </details>
