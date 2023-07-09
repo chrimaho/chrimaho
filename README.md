@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26695](https://github.com/scikit-learn/scikit-learn/issues/26695) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+1. 🗣 Commented on [#3167](https://github.com/pycaret/pycaret/issues/3167) in [pycaret/pycaret](https://github.com/pycaret/pycaret)
 <!--END_SECTION:activity-->
 
 </details>
