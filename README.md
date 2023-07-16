@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3167](https://github.com/pycaret/pycaret/issues/3167) in [pycaret/pycaret](https://github.com/pycaret/pycaret)
+1. 🗣 Commented on [#1532](https://github.com/delta-io/delta/pull/1532#issuecomment-1633558781) in [delta-io/delta](https://github.com/delta-io/delta)
 <!--END_SECTION:activity-->
 
 </details>
