@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1532](https://github.com/delta-io/delta/pull/1532#issuecomment-1633558781) in [delta-io/delta](https://github.com/delta-io/delta)
+1. 🗣 Commented on [#8203](https://github.com/simple-icons/simple-icons/pull/8203#issuecomment-1655042055) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
