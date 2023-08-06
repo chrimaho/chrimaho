@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8203](https://github.com/simple-icons/simple-icons/pull/8203#issuecomment-1655042055) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❗ Opened issue [#4309](https://github.com/plotly/plotly.py/issues/4309) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
 <!--END_SECTION:activity-->
 
 </details>
