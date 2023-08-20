@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6301](https://github.com/python-poetry/poetry/issues/6301#issuecomment-1671034519) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. ❗ Opened issue [#2](https://github.com/nicobritos/python-faker-commerce/issues/2) in [nicobritos/python-faker-commerce](https://github.com/nicobritos/python-faker-commerce)
 <!--END_SECTION:activity-->
 
 </details>
