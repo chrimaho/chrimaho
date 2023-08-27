@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/nicobritos/python-faker-commerce/issues/2) in [nicobritos/python-faker-commerce](https://github.com/nicobritos/python-faker-commerce)
+1. 🗣 Commented on [#168](https://github.com/jimporter/mike/issues/168#issuecomment-1692566349) in [jimporter/mike](https://github.com/jimporter/mike)
 <!--END_SECTION:activity-->
 
 </details>
