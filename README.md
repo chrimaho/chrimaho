@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1440](https://github.com/ydataai/ydata-profiling/pull/1440#issuecomment-1718442397) in [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
+1. 💪 Opened PR [#11448](https://github.com/pytest-dev/pytest/pull/11448) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 <!--END_SECTION:activity-->
 
 </details>
