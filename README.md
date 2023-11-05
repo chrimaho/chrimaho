@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/mkdocstrings/griffe/issues/213#issuecomment-1749694101) in [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe)
+1. 🗣 Commented on [#282](https://github.com/adamchainz/blacken-docs/pull/282#issuecomment-1791510131) in [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs)
 <!--END_SECTION:activity-->
 
 </details>
