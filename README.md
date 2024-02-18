@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11075](https://github.com/tiangolo/fastapi/pull/11075#issuecomment-1925944494) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+1. 💪 Opened PR [#571](https://github.com/alkaline-ml/pmdarima/pull/571) in [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima)
 <!--END_SECTION:activity-->
 
 </details>
