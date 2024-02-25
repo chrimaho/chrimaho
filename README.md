@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#571](https://github.com/alkaline-ml/pmdarima/pull/571) in [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima)
+1. 🗣 Commented on [#571](https://github.com/alkaline-ml/pmdarima/pull/571#issuecomment-1957888971) in [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima)
 <!--END_SECTION:activity-->
 
 </details>
