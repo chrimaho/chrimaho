@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/chrimaho/chrismahoney/pull/62) in [chrimaho/chrismahoney](https://github.com/chrimaho/chrismahoney)
+1. 🚀 Published release [v0.6.1](https://github.com/data-science-extensions/toolbox-python/releases/tag/v0.6.1) in [data-science-extensions/toolbox-python](https://github.com/data-science-extensions/toolbox-python)
 <!--END_SECTION:activity-->
 
 </details>
