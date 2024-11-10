@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/AntoineD/docstring-inheritance/pull/17#issuecomment-2448274036) in [AntoineD/docstring-inheritance](https://github.com/AntoineD/docstring-inheritance)
+1. 🚀 Published release [v1.0.0](https://github.com/data-science-extensions/toolbox-python/releases/tag/v1.0.0) in [data-science-extensions/toolbox-python](https://github.com/data-science-extensions/toolbox-python)
 <!--END_SECTION:activity-->
 
 </details>
