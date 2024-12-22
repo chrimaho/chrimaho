@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.1 - Add Docs for `types` module](https://github.com/data-science-extensions/toolbox-pyspark/releases/tag/v0.3.1) in [data-science-extensions/toolbox-pyspark](https://github.com/data-science-extensions/toolbox-pyspark)
+1. 🚀 Published release [v0.7.0 - Add Columns module](https://github.com/data-science-extensions/toolbox-pyspark/releases/tag/v0.7.0) in [data-science-extensions/toolbox-pyspark](https://github.com/data-science-extensions/toolbox-pyspark)
 <!--END_SECTION:activity-->
 
 </details>
