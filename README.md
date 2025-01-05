@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.12.0 - Add Delta module](https://github.com/data-science-extensions/toolbox-pyspark/releases/tag/v0.12.0) in [data-science-extensions/toolbox-pyspark](https://github.com/data-science-extensions/toolbox-pyspark)
+1. ❗ Opened issue [#14](https://github.com/data-science-extensions/ts-stat-tests/issues/14) in [data-science-extensions/ts-stat-tests](https://github.com/data-science-extensions/ts-stat-tests)
 <!--END_SECTION:activity-->
 
 </details>
