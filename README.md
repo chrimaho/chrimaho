@@ -117,10 +117,10 @@ Good reference sites for emoji's:
 
 <!-- BLOG-POST-LIST:START -->
 - [Rotary Youth Leadership Awards](https://chrimaho.medium.com/rotary-youth-leadership-awards-56a7918488f0?source=rss-56d03114dd5a------2)
-- [How to Use GitHub Webhooks, Docker, and Python for Automatic End-to-End Deployments](https://betterprogramming.pub/github-webhooks-docker-and-python-for-automatic-app-deployments-a7f18d23d5b7?source=rss-56d03114dd5a------2)
+- [How to Use GitHub Webhooks, Docker, and Python for Automatic End-to-End Deployments](https://medium.com/better-programming/github-webhooks-docker-and-python-for-automatic-app-deployments-a7f18d23d5b7?source=rss-56d03114dd5a------2)
 - [The Power of Code Snippets](https://medium.com/codex/the-power-of-code-snippets-9b0359e7ae2d?source=rss-56d03114dd5a------2)
-- [Mental Models and Social Situations](https://betterhumans.pub/mental-models-80eb02b0dd70?source=rss-56d03114dd5a------2)
-- [Reinforcement Learning](https://towardsdatascience.com/reinforcement-learning-fda8ff535bb6?source=rss-56d03114dd5a------2)
+- [Mental Models and Social Situations](https://medium.com/better-humans/mental-models-80eb02b0dd70?source=rss-56d03114dd5a------2)
+- [Reinforcement Learning](https://medium.com/towards-data-science/reinforcement-learning-fda8ff535bb6?source=rss-56d03114dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
