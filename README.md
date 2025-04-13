@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1 - Hide TOC on the Toolboxes pages](https://github.com/data-science-extensions/data-science-extensions/releases/tag/v1.0.1) in [data-science-extensions/data-science-extensions](https://github.com/data-science-extensions/data-science-extensions)
+1. 🚀 Published release [v1.2.0 - Migrate from Poetry to UV and add new DotDict class](https://github.com/data-science-extensions/toolbox-python/releases/tag/v1.2.0) in [data-science-extensions/toolbox-python](https://github.com/data-science-extensions/toolbox-python)
 <!--END_SECTION:activity-->
 
 </details>
