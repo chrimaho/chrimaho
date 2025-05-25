@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0 - Add new toolbox: Synthetic Data Generators](https://github.com/data-science-extensions/data-science-extensions/releases/tag/v1.1.0) in [data-science-extensions/data-science-extensions](https://github.com/data-science-extensions/data-science-extensions)
+1. 🚀 Published release [v1.0.0 - First Major Release](https://github.com/data-science-extensions/synthetic-data-generators/releases/tag/v1.0.0) in [data-science-extensions/synthetic-data-generators](https://github.com/data-science-extensions/synthetic-data-generators)
 <!--END_SECTION:activity-->
 
 </details>
