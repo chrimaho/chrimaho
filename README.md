@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.1 - Fix typos](https://github.com/data-science-extensions/data-science-extensions/releases/tag/v1.3.1) in [data-science-extensions/data-science-extensions](https://github.com/data-science-extensions/data-science-extensions)
+1. 🚀 Published release [🏷️ v1.4.0 - Comprehensive Package Enhancement and Tooling Migration](https://github.com/data-science-extensions/toolbox-python/releases/tag/v1.4.0) in [data-science-extensions/toolbox-python](https://github.com/data-science-extensions/toolbox-python)
 <!--END_SECTION:activity-->
 
 </details>
