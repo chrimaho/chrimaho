@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.2 - Update Brand Icon to SVG](https://github.com/data-science-extensions/data-science-extensions/releases/tag/v1.3.2) in [data-science-extensions/data-science-extensions](https://github.com/data-science-extensions/data-science-extensions)
+1. 💪 Opened PR [#1](https://github.com/data-science-extensions/docstring-format-checker/pull/1) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
 <!--END_SECTION:activity-->
 
 </details>
