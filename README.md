@@ -160,7 +160,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/data-science-extensions/docstring-format-checker/pull/1) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
+1. 🚀 Published release [v0.4.0 - Enhance CLI Error Output Formatting](https://github.com/data-science-extensions/docstring-format-checker/releases/tag/v0.4.0) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
 <!--END_SECTION:activity-->
 
 </details>
