@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](https://github.com/hadialqattan/pycln/pull/277) in [hadialqattan/pycln](https://github.com/hadialqattan/pycln)
+1. 💪 Opened PR [#19](undefined) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
 <!--END_SECTION:activity-->
 
 </details>
