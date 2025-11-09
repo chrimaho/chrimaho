@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.1 - Stricter Code Quality Standards](https://github.com/data-science-extensions/docstring-format-checker/releases/tag/v1.5.1) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
+1. 🚀 Published release [v1.2.0 - Modernise Infrastructure and Enhance Type Safety](https://github.com/data-science-extensions/synthetic-data-generators/releases/tag/v1.2.0) in [data-science-extensions/synthetic-data-generators](https://github.com/data-science-extensions/synthetic-data-generators)
 <!--END_SECTION:activity-->
 
 </details>
