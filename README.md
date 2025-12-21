@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7667](https://github.com/plotly/plotly.js/issues/7667#issuecomment-3648300290) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
+1. 🗣 Commented on [#7673](https://github.com/plotly/plotly.js/pull/7673#issuecomment-3677441498) in [plotly/plotly.js](https://github.com/plotly/plotly.js)
 <!--END_SECTION:activity-->
 
 </details>
