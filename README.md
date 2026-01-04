@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#27](undefined) in [data-science-extensions/docstring-format-checker](https://github.com/data-science-extensions/docstring-format-checker)
+1. ℹ️ Assigned issue [#11](https://github.com/data-science-extensions/ts-stat-tests/issues/11) in [data-science-extensions/ts-stat-tests](https://github.com/data-science-extensions/ts-stat-tests)
 <!--END_SECTION:activity-->
 
 </details>
