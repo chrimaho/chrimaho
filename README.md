@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#11](https://github.com/data-science-extensions/ts-stat-tests/issues/11) in [data-science-extensions/ts-stat-tests](https://github.com/data-science-extensions/ts-stat-tests)
+1. ℹ️ Assigned issue [#9](https://github.com/data-science-extensions/ts-stat-tests/issues/9) in [data-science-extensions/ts-stat-tests](https://github.com/data-science-extensions/ts-stat-tests)
 <!--END_SECTION:activity-->
 
 </details>
