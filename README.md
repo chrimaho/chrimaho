@@ -162,7 +162,7 @@ Good reference sites for emoji's:
 <!-- GitHub Activity ReadMe: https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/data-science-extensions/dse-guides/pull/1) in [data-science-extensions/dse-guides](https://github.com/data-science-extensions/dse-guides)
+1. 🗣 Commented on [#5499](https://github.com/plotly/plotly.py/issues/5499#issuecomment-3876581979) in [plotly/plotly.py](https://github.com/plotly/plotly.py)
 <!--END_SECTION:activity-->
 
 </details>
